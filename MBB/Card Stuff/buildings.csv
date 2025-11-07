@@ -1,0 +1,13 @@
+name,woodN,stoneN,marbleN,crystalN,totalNumR,numLayers,foundation,@foundationType,ePerLayerA,@layerBuff,ePerLayerB,eComp,eVisitX,eVisitO
+Marketplace,2,1,0,0,6,2,Wood,C:\Users\Anna\Desktop\MBB\Card Stuff\wood.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,2,trade is available: 3 same resource: 1 any resource,"trade with anyone, anywhere.  ",you may object to the trade
+Farm,3,0,0,0,6,2,Wood,C:\Users\Anna\Desktop\MBB\Card Stuff\wood.png,r,C:\Users\Anna\Desktop\MBB\Card Stuff\resource.png,1,+1 influence per adjacent farm ,gather wood with 1d6,also get 1 copy
+Pendantmaker,4,0,0,2,12,2,Wood,C:\Users\Anna\Desktop\MBB\Card Stuff\wood.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,2,take a sigil,pay 4C: 1 sigil ,+1 crystal
+Stoas,0,3,0,0,9,3,Stone,C:\Users\Anna\Desktop\MBB\Card Stuff\stone.png,m,C:\Users\Anna\Desktop\MBB\Card Stuff\movement.png,1,4+ influence,move again ,1+ speed next move
+Hospital,2,2,0,0,12,3,Stone,C:\Users\Anna\Desktop\MBB\Card Stuff\stone.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,2,place a plains,adjust sanity by 1,you may move once towards a plains
+Baths,0,2,2,0,12,3,Stone,C:\Users\Anna\Desktop\MBB\Card Stuff\stone.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,2,place a floodplain,flood a plains,you may dry or flood one tile
+Aqueduct,0,3,3,0,18,3,Stone,C:\Users\Anna\Desktop\MBB\Card Stuff\stone.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,2,"change a plains into a resource tile, gather, then populate",gather stone with 1d6,also get 1 copy
+Amphitheater,0,3,0,3,18,3,Stone,C:\Users\Anna\Desktop\MBB\Card Stuff\stone.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,2,take two sigils,exchange one sigil with the bank,1+ crystal
+University,3,2,2,0,28,4,Marble,C:\Users\Anna\Desktop\MBB\Card Stuff\marble.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,3,get +2 same resource on gather,gather marble with 1d6,also get 1 copy
+Sewers,0,3,3,0,24,4,Marble,C:\Users\Anna\Desktop\MBB\Card Stuff\marble.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,3,add three sewer tiles below this tile and two adjacent tiles. +6 influence,enter the sewers. ,you may enter the sewers
+Basilica,2,2,3,0,28,4,Marble,C:\Users\Anna\Desktop\MBB\Card Stuff\marble.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,3,Adjust your alignment to whatever you want.,adjust sanity by 2. you may cast an additional spell this turn.,you may adjust your sanity by 1
+Hippodrome,1,1,4,3,36,4,Marble,C:\Users\Anna\Desktop\MBB\Card Stuff\marble.png,i,C:\Users\Anna\Desktop\MBB\Card Stuff\influence.png,3,get +1 influence per layer,engage in a duel,1+ vote on objection
