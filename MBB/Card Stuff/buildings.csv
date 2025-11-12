@@ -1,5 +1,6 @@
 name,woodN,stoneN,marbleN,crystalN,totalNumR,numLayers,foundation,@foundationType,ePerLayerA,@layerBuff,ePerLayerB,eComp,eVisitX,eVisitO
-Marketplace,2,1,0,0,6,2,Wood,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\wood.png,i,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\influence.png,2,trade is available: 3 same resource: 1 any resource,"trade with anyone, anywhere.  ",you may object to the trade
+Marketplace,2,0,1,0,6,2,Wood,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\wood.png,i,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\influence.png,2,trade is available: 3 same resource: 1 any resource,"trade with anyone, anywhere.  ",you may object to the trade
+Housing,2,1,0,0,6,2,Wood,,i,,2,+3influence,,
 Farm,3,0,0,0,6,2,Wood,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\wood.png,r,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\resource.png,1,+1 influence per adjacent farm ,gather wood with 1d6,also get 1 copy
 Pendantmaker,4,0,0,2,12,2,Wood,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\wood.png,i,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\influence.png,2,take a sigil,pay 4C: 1 sigil ,+1 crystal
 Stoas,0,3,0,0,9,3,Stone,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\stone.png,m,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\Card Stuff\movement.png,1,4+ influence,move again ,1+ speed next move
