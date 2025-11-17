@@ -1,0 +1,4 @@
+name,influence,completeE,visitE
+Scryer's Tower,5,"Place the Scryer's Tower on any empty tile. Gain 1 influence for each adjacent Cave or Crystal building (Pendantmaker, Amphitheater, Hippodrome)","The next time you take any kind of event card, draw 2 and choose from between them"
+Fishing Spot,3,"Place the Fishing spot on a lake. Gain 1 influence per each adjacent floodplain. Once placed, it is possible to traverse over the lake. ","Roll 1d6. If you get a 5 or a 6, you have caught a fish! Gain 1 influence."
+Portal Circle,5,Place two Portal Circle tiles anywhere on the board. You may move to one of the two portal tiles.,Instantly teleport to the other Portal Circle without expending your speed.
