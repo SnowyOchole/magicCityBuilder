@@ -1,0 +1,30 @@
+description,effect
+"As you walk, the ground hardens underneath your feet, dirt replaced with hard rock.",Place a quarry and populate it. 
+The ground opens up into a large valley.,Place down a basin tile and populate it.
+Lush grass surrounds you at every angle as far as the eye can see.,Plave a plains and populate it . 
+You stumble through the woods and happen upon a big patch of land.,Place down a triple tile. Populate any resource tiles that appear.
+"It's taking ages to clear your way through a thicket, if only you had some help...","If you are adjacent to a friend, place down a double tile. Otherwise, place a random single tile."
+"The longer you walk, the grass gets taller and the soil more moist. As the croaking of frogs fill the air, you stop and decide to take a look around.",Place down the swamp.
+"You take a long hike, deciding to take a difficult inclining path. ","Place down a mountain tile and roll a d6. On a 2 or  below, the mountain has become a valcano. If the valcano has been placed already, do not plalce a new one. If the valcano is placed. Phase 1 begins now"
+"You hit a cross roads, to your left the world opens up to a flat field of flowers. And to your right, the dirt dries up into craggling rocks.","Choose your path. If you visit the meadow, place a plains tile and populate it. If you follow the craggling rocks, place a quarry and populate it. "
+"The hills you've been wandering get steeper and as you climb higher, the heat becomes sweltering. The ground begins to quake and the skies begin to rumble. ","Place the volcano next to you and roll 1d6. On a 4 or above, the adjacent tiles are safe. On a 3 or lower, remove 1d6 resources from each adjacent tile. Phase 1 begins now, turn to page --- in the rulebook. "
+There's a sharp incline on the ground you walk. The air gets thin as you find yourself closer to its snowy peak.,Place a mountain.
+"You stumble across an opening in the hillside, seeing a faint glimmer inside you decide to investigate. ",Place a cave and populate it.
+Things are looking a little rocky...,"Place a quarry, a cave, or a basin, and populate it. "
+A land of marble lies in front od you.,Place a basin and populate it.
+You find yourself at the mouth of a cave.,Place a cave and populate it.
+You are plunged into a world of wood.,Place a forest or a plains tile.
+A path splits ahead. Where will you go?,Place a quarry or a plains tile.
+You find a wide expanse of land in front of you.,Place a double tile. Populate any resources that appear. 
+You find a forest.,Place a forest tile.
+You stumble across a plains of green.,Place a plains tile.
+You find a forest.,Place a forest tile.
+"The grass thickens and the soil hardens, vegetation seems ro thrive  in this strange land. Olive you recognise but there are other fruits abundant in the area.","Place a scrubland, if adjacent to a forest, gain 1 wood."
+"Your journey down the mountain is a peaceful one, the lush vegetation gives way to craggly stone and steep drop offs, watch your step!",Place a basin and populate it.
+"You find a quarry, but there's a potent, almost violent magical energy that circulates across its perimeter, preventing you from approaching. Will you tame it?","Place down a quarry tile and roll a d6. On a 2 or below the quarry is poorly managed and causes (magic) pollution, all adjacent tiles with resources lose 1. "
+"""The fog rolls in on an early morning, dew settling or your clothes, you walk through the squelching mud""",Place down a swamp tile
+You find yourself in a swamp with your lower half sinking into a pit of mud.,"Place down a swamp tile and roll a d6, On a 2 or below, you're stuck here for another round."
+"The forests are rather plentiful today, and they're more than willing to share their gifts to the surrounding land.",Place down a scrublands tile. If it's next to a forest roll a 0-2 dice and gain that much wood.
+The woodlands call to you. ,"Place down a forest, scrublands, or a swamp tile."
+"In the midst of a scrublands, you find a quarry.","Place down a quarry tile or a scrublands tile. Role a d6 -- on a 2 or lower, populate it with half as many resources. "
+Holy shit a mountain range,Add 2 adjacent mountain tiles
