@@ -1,0 +1,26 @@
+text,alignment,influenceChange,@alignImage,@influenceImage,type
+Building,1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,subject
+Non-Resource Tile,1,2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\2i.png,subject
+Resource Type,-1,-1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!1i.png,subject
+Resource Tile,-1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,subject
+Season,0,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\neutral.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,subject
+Alignment,0,-1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\neutral.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!1i.png,subject
+Move Speed,1,-1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!1i.png,subject
+multiply by 3,-1,-3,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!3i.png,quantity
+multiply by 2,0,-2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\neutral.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!2i.png,quantity
+add 1,1,0,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\neutral.png,quantity
+add 2,0,-1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\neutral.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!1i.png,quantity
+add 3,-1,-2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\!2i.png,quantity
+Acquire,1,2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\2i.png,verb
+Break,-1,3,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\3i.png,verb
+Capture,1,2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\2i.png,verb
+Discover,1,3,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\3i.png,verb
+Enhance,-1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,verb
+Explore,1,3,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\3i.png,verb
+Extract,1,2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\2i.png,verb
+Finish,1,2,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\sun.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\2i.png,verb
+Imbue,-1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,verb
+Replace,-1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,verb
+Transform,-1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,verb
+Ward,-1,1,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\1i.png,verb
+Weave,-1,3,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\moon.png,C:\Users\Anna\GitStuff\magicCityBuilder\MBB\sigil printing\3i.png,verb
