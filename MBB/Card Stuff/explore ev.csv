@@ -1,30 +1,30 @@
-description,effect
-"As you walk, the ground hardens underneath your feet, dirt replaced with hard rock.",Place a quarry and populate it. 
-The ground opens up into a large valley.,Place down a basin tile and populate it.
-Lush grass surrounds you at every angle as far as the eye can see.,Plave a plains and populate it . 
-You stumble through the woods and happen upon a big patch of land.,Place down a triple tile. Populate any resource tiles that appear.
-"It's taking ages to clear your way through a thicket, if only you had some help...","If you are adjacent to a friend, place down a double tile. Otherwise, place a random single tile."
-"The longer you walk, the grass gets taller and the soil more moist. As the croaking of frogs fill the air, you stop and decide to take a look around.",Place down the swamp.
-"You take a long hike, deciding to take a difficult inclining path. ","Place down a mountain tile and roll a d6. On a 2 or  below, the mountain has become a valcano. If the valcano has been placed already, do not plalce a new one. If the valcano is placed. Phase 1 begins now"
-"You hit a cross roads, to your left the world opens up to a flat field of flowers. And to your right, the dirt dries up into craggling rocks.","Choose your path. If you visit the meadow, place a plains tile and populate it. If you follow the craggling rocks, place a quarry and populate it. "
-"The hills you've been wandering get steeper and as you climb higher, the heat becomes sweltering. The ground begins to quake and the skies begin to rumble. ","Place the volcano next to you and roll 1d6. On a 4 or above, the adjacent tiles are safe. On a 3 or lower, remove 1d6 resources from each adjacent tile. Phase 1 begins now, turn to page --- in the rulebook. "
-There's a sharp incline on the ground you walk. The air gets thin as you find yourself closer to its snowy peak.,Place a mountain.
-"You stumble across an opening in the hillside, seeing a faint glimmer inside you decide to investigate. ",Place a cave and populate it.
-Things are looking a little rocky...,"Place a quarry, a cave, or a basin, and populate it. "
-A land of marble lies in front od you.,Place a basin and populate it.
-You find yourself at the mouth of a cave.,Place a cave and populate it.
-You are plunged into a world of wood.,Place a forest or a plains tile.
-A path splits ahead. Where will you go?,Place a quarry or a plains tile.
-You find a wide expanse of land in front of you.,Place a double tile. Populate any resources that appear. 
-You find a forest.,Place a forest tile.
-You stumble across a plains of green.,Place a plains tile.
-You find a forest.,Place a forest tile.
-"The grass thickens and the soil hardens, vegetation seems ro thrive  in this strange land. Olive you recognise but there are other fruits abundant in the area.","Place a scrubland, if adjacent to a forest, gain 1 wood."
-"Your journey down the mountain is a peaceful one, the lush vegetation gives way to craggly stone and steep drop offs, watch your step!",Place a basin and populate it.
-"You find a quarry, but there's a potent, almost violent magical energy that circulates across its perimeter, preventing you from approaching. Will you tame it?","Place down a quarry tile and roll a d6. On a 2 or below the quarry is poorly managed and causes (magic) pollution, all adjacent tiles with resources lose 1. "
-"""The fog rolls in on an early morning, dew settling or your clothes, you walk through the squelching mud""",Place down a swamp tile
-You find yourself in a swamp with your lower half sinking into a pit of mud.,"Place down a swamp tile and roll a d6, On a 2 or below, you're stuck here for another round."
-"The forests are rather plentiful today, and they're more than willing to share their gifts to the surrounding land.",Place down a scrublands tile. If it's next to a forest roll a 0-2 dice and gain that much wood.
-The woodlands call to you. ,"Place down a forest, scrublands, or a swamp tile."
-"In the midst of a scrublands, you find a quarry.","Place down a quarry tile or a scrublands tile. Role a d6 -- on a 2 or lower, populate it with half as many resources. "
-Holy shit a mountain range,Add 2 adjacent mountain tiles
+num,name,description,effect
+1,Rock On,"As you walk, the ground hardens underneath your feet, dirt replaced with hard rock.",Place a quarry tile and populate it. Gain 2 stone.
+2,Marble Canyon,A striped canyon in the distance catches your eye.,Place a basin tile and populate it. Gain 2 marble.
+3,Grass Surrounds You,Lush grass surrounds you at every angle as far as the eye can see.,Place a plains tile and gain 1 sigil.
+4,Vast Land,You stumble through the woods and happen upon a big patch of land.,Place a triple tile. Populate any resource tiles that appear. Add two resources from one tile of your choosing to your personal inventory.
+5,Phone a Friend,It's taking ages to clear your way through a thicket. If only you had some help...,"If you are adjacent to a friend, place down a double tile. Otherwise, place a random single tile and gain 1 sigil."
+6,Swamped,"The grass gets taller and the soil more moist. As the croaking of frogs fill the air, you stop and decide to take a look around.",Place a swamp tile and gain 1 sigil.
+7,The Mountain Climb,You take a long hike over a difficult inclining path.,Place a mountain tile and gain 1 sigil.
+8,Choose Your Path,"You hit a crossroads—to your left, the world opens up to a flat field of flowers; to your right, the dirt dries up into craggling rocks.","Choose your path. If you visit the meadow, place a plains tile. If you follow the craggling rocks, place a quarry and populate it."
+9,Feel The Burn,"As you climb higher upon steepening hills, the heat becomes sweltering. The ground begins to quake as the sky rumbles.","Place the volcano under you and roll 1d6. On a 4 or above, the adjacent tiles are safe. On a 3 or lower, remove 1d6 resources from each adjacent tile."
+10,At The Peak,There's a sharp incline on the ground you walk. The air gets thin as you find yourself closer to its snowy peak.,Place a mountain tile and gain 1 sigil.
+11,Crow's Eye,"You stumble across an opening in the hillside. Seeing a faint glimmer inside, you decide to investigate.",Place a cave tile and populate it. Gain 2 crystal.
+12,Stony Paths,Things are looking a little rocky...,"Place a quarry, a cave, or a basin tile, and populate it. Gain 2 additional resources from your chosen tile."
+13,Lost Your Marbles,A land of marble lies in front of you.,Place a basin tile and populate it. Gain 2 marble.
+14,Into The Dark,You find yourself at the mouth of a cave.,Place a cave tile and populate it. Gain 2 crystal.
+15,Green Giants,You are plunged into a world of wood.,"Place a forest or a plains tile. If the forest is chosen, populate it and gain 2 additional wood."
+16,Fork in the Road,A path splits ahead. Where will you go?,"Place a quarry or a plains tile. If the quarry is chosen, populate it and gain 2 additional stone."
+17,The Land Expands,You find a wide expanse of land in front of you.,Place a double tile. Populate any resources that appear. Add two resources from one tile of your choosing to your personal inventory.
+18,Tree-mendous,You find a forest.,Place a forest tile and populate it. Gain 2 wood.
+19,Plain(s) and Simple,You stumble across a vast field of green.,Place a plains tile and gain 1 sigil.
+20,Welcome to the Forest,You find a forest.,Place a forest tile and populate it. Gain 2 wood.
+21,Welcome to the Scrublands,The grass thickens and the soil hardens. Vegetation seems to thrive in this strange land.,"Place a scrubland tile and gain 1 sigil. If the tile is adjacent to a forest, gain 1 wood."
+22,Watch Your Step!,Lush vegetation gives way to craggly stone and steep drop-offs.,Place a basin tile and populate it. Gain 2 marble.
+23,Magical Quarry,"You find a quarry, but there's a violent magical energy that prevents you from approaching. Will you tame it?","Place down a quarry tile and roll a d6. On a 2 or below, all adjacent tiles with resources lose 1."
+24,Lost in the Haze,"The fog rolls in on an early morning, dew settling or your clothes as you walk through the squelching mud.",Place a swamp tile and gain 1 sigil.
+25,Find Your Footing,You find yourself in a swamp—and your lower half sinking into a pit of mud.,"Place a swamp tile and roll a d6. On a 2 or below, you're stuck here for another round. Otherwise, gain 1 sigil."
+26,The Forest's Gift,"The forests are rather plentiful today, and they're more than willing to share their gifts to the surrounding land.","Place a scrubland tile. If it is adjacent to a forest, gain 1 wood."
+27,Wood You Like More?,The woodlands call to you.,"Place a forest, scrublands, or a swamp tile. If the forest is chosen, populate the tile and gain 2 additional wood."
+28,Scrublands or Quarry?,"In the midst of a scrublands, you find a quarry.","Place a quarry tile or a scrublands tile. If the quarry is chosen, gain 2 stone, then roll a d6. On a 2 or below, populate it with half as many resources."
+29,"O Great Heavens, A Mountain Range!",A series of jagged hills covers the skyline in front of you.,Add 2 adjacent mountain tiles and gain 1 sigil.

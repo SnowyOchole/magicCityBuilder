@@ -1,5 +1,5 @@
 name,influence,completeE,visitE
-Scryer's Tower,5,"Place the Scryer's Tower Building on any Flat Tile. Gain 1 Influence for each adjacent Cave or Crystal Building (Pendantmaker, Apothecary, Hippodrome)","The next time you take any kind of event card, draw +1 Event and choose from between them"
-Fishing Spot,3,"Place the Fishing Spot Building on a Lake. Gain 1 influence per each adjacent floodplain. Once placed, it is possible to traverse over the lake. ","Roll 1d6. If you get a 5 or a 6, you have caught a fish! Gain 1 influence."
-Portal Circle,5,Place two Portal Circle Tiles anywhere on the board. You may move to one of the two portal tiles.,Instantly teleport to the other Portal Circle without expending any Movement.
+Scryer's Tower,7,"Place the Scryer's Tower Building on any Flat Tile. Gain 1 Influence for each adjacent Cave or Crystal Building (Pendantmaker, Apothecary, Hippodrome)","The next time you take any kind of event card, draw +1 Event and choose from between all drawn Events."
+Fishing Spot,4,"Place the Fishing Spot Building on a Lake. Gain 1 influence per each adjacent floodplain. Once placed, it is possible to traverse over the lake. ","Roll 1d6. If you get a 5 or a 6, you have caught a fish! Gain 1 influence."
+Portal Circle,10,Place two Portal Circle Tiles anywhere on the board. You may move to one of the two portal tiles.,Instantly teleport to the other Portal Circle without expending any Movement.
 Nature's Gazebo,5,Place the Nature's Gazebo Tile anywhere on the board.  Roll 1d6 to determine the orientation of the Tile. (The number you roll should be farthest from you.),You may pay the number of Resources oriented away from you to gain the number of Resource oriented towards you. Re-Orient.
